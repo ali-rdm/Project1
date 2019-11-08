@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="homeex1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/homeex1/dist/homeex1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
